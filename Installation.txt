@@ -1,0 +1,7 @@
+Siga esses passos para executar o projeto:
+- acesse https://console.firebase.google.com para criar um novo projeto
+- habilite o provedor de autenticação de e-mail e senha na autenticação
+- crie o Firestore Database (modo de teste)
+- crie um aplicativo da web para o projeto e copie a configuração no arquivo firebaseConfig.js no diretório raiz
+- execute "npm install"
+- execute "npm run start"
