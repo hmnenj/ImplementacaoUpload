@@ -6,7 +6,7 @@ Uma aplicação móvel desenvolvida com React Native, Expo, Firebase e NativeWin
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/hmnenj/AtualizacaoSDK.git
+https://github.com/hmnenj/ImplementacaoUpload.git
 ```
 
 2. **Instale as dependências**
